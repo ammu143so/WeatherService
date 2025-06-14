@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\repository\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\repository\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\dtos\\weatherforecastresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\dtos\\weatherforecastresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\dtos\\addlocationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\dtos\\addlocationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\data\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\data\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D58E94-9683-4719-A2F0-8DBFBB1FFB77}|WeatherForecast.UnitTest\\WeatherForecast.UnitTest.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecast.unittest\\servicestest\\weatherservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D58E94-9683-4719-A2F0-8DBFBB1FFB77}|WeatherForecast.UnitTest\\WeatherForecast.UnitTest.csproj|solutionrelative:weatherforecast.unittest\\servicestest\\weatherservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D58E94-9683-4719-A2F0-8DBFBB1FFB77}|WeatherForecast.UnitTest\\WeatherForecast.UnitTest.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecast.unittest\\repositoriestest\\locationrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D58E94-9683-4719-A2F0-8DBFBB1FFB77}|WeatherForecast.UnitTest\\WeatherForecast.UnitTest.csproj|solutionrelative:weatherforecast.unittest\\repositoriestest\\locationrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D58E94-9683-4719-A2F0-8DBFBB1FFB77}|WeatherForecast.UnitTest\\WeatherForecast.UnitTest.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecast.unittest\\controllerstest\\weathercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D58E94-9683-4719-A2F0-8DBFBB1FFB77}|WeatherForecast.UnitTest\\WeatherForecast.UnitTest.csproj|solutionrelative:weatherforecast.unittest\\controllerstest\\weathercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\migrations\\weatherdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\migrations\\weatherdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|c:\\users\\amitk\\onedrive\\desktop\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi\\weatherforecastapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92D5EF18-9898-4334-B7A4-D7CF4AFC120D}|WeatherForecastAPI\\WeatherForecastAPI.csproj|solutionrelative:weatherforecastapi\\weatherforecastapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Models\\Location.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T03:59:19.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T03:45:09.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Data\\WeatherDbContext.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\Data\\WeatherDbContext.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Data\\WeatherDbContext.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\Data\\WeatherDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:00:47.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecast.UnitTest\\ServicesTest\\WeatherServiceTests.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.UnitTest\\ServicesTest\\WeatherServiceTests.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecast.UnitTest\\ServicesTest\\WeatherServiceTests.cs",
+              "RelativeToolTip": "WeatherForecast.UnitTest\\ServicesTest\\WeatherServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:05:00.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddLocationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\DTOs\\AddLocationRequest.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\DTOs\\AddLocationRequest.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\DTOs\\AddLocationRequest.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\DTOs\\AddLocationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:01:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastResponse.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\DTOs\\WeatherForecastResponse.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\DTOs\\WeatherForecastResponse.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\DTOs\\WeatherForecastResponse.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\DTOs\\WeatherForecastResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:01:29.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Repository\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\Repository\\ILocationRepository.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Repository\\ILocationRepository.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\Repository\\ILocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:55:36.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Repository\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\Repository\\LocationRepository.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Repository\\LocationRepository.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\Repository\\LocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:56:13.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\Services\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\Services\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:00:05.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Services\\WeatherService.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:00:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Program.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:12:39.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocationRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecast.UnitTest\\RepositoriesTest\\LocationRepositoryTests.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.UnitTest\\RepositoriesTest\\LocationRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecast.UnitTest\\RepositoriesTest\\LocationRepositoryTests.cs",
+              "RelativeToolTip": "WeatherForecast.UnitTest\\RepositoriesTest\\LocationRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:04:43.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecast.UnitTest\\ControllersTest\\WeatherControllerTests.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.UnitTest\\ControllersTest\\WeatherControllerTests.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecast.UnitTest\\ControllersTest\\WeatherControllerTests.cs",
+              "RelativeToolTip": "WeatherForecast.UnitTest\\ControllersTest\\WeatherControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:05:21.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\appsettings.json",
+              "RelativeToolTip": "WeatherForecastAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T18:30:43.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Migrations\\WeatherDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\Migrations\\WeatherDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\Migrations\\WeatherDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WeatherForecastAPI\\Migrations\\WeatherDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:29:02.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\WeatherForecastAPI.csproj",
+              "RelativeDocumentMoniker": "WeatherForecastAPI\\WeatherForecastAPI.csproj",
+              "ToolTip": "C:\\Users\\amitk\\OneDrive\\Desktop\\WeatherForecastApi\\WeatherForecastAPI\\WeatherForecastAPI\\WeatherForecastAPI.csproj",
+              "RelativeToolTip": "WeatherForecastAPI\\WeatherForecastAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T03:39:54.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
